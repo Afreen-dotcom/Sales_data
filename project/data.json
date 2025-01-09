@@ -1,0 +1,285 @@
+[
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Wireless Headphones",
+                "Price": 150,
+
+                "Description": "High-quality wireless headphones with noise cancellation.",
+                "Category": "Electronics",
+                "Image": "https://example.com/images/wireless-headphones.jpg",
+                "Sold": true,
+                "IsSale": true,
+                "DateOfSale": "2024-11-20"
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Gaming Laptop",
+                "Price": 1200,
+                "Description": "High-performance laptop for gaming and productivity.",
+                "Category": "Electronics",
+                "Image": "https://example.com/images/gaming-laptop.jpg",
+                "Sold": false,
+                "IsSale": false,
+                "DateOfSale": null
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                    "Title": "Yoga Mat",
+                    "Price": 25,
+                    "Description": "Eco-friendly yoga mat with non-slip surface.",
+                    "Category": "Fitness",
+                    "Image": "https://example.com/images/yoga-mat.jpg",
+                    "Sold": true,
+                    "IsSale": false,
+                    "DateOfSale": "2024-11-15"
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Smart Watch",
+                "Price": 200,
+                "Description": "Feature-packed smartwatch with heart rate monitor.",
+                "Category": "Electronics",
+                "Image": "https://example.com/images/smart-watch.jpg",
+                "Sold": true,
+                "IsSale": true,
+                "DateOfSale": "2024-11-18"
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Running Shoes",
+                "Price": 80,
+                "Description": "Comfortable running shoes for all terrains.",
+                "Category": "Fitness",
+                "Image": "https://example.com/images/running-shoes.jpg",
+                "Sold": false,
+
+                "IsSale": true,
+                "DateOfSale": null
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Bluetooth Speaker",
+                "Price": 45,
+                "Description": "Portable Bluetooth speaker with deep bass.",
+                "Category": "Electronics",
+                "Image": "https://example.com/images/bluetooth-speaker.jpg",
+                "Sold": true,
+                "IsSale": true,
+                "DateOfSale": "2024-11-10"
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+               "Title": "Office Chair",
+                "Price": 120,
+                "Description": "Ergonomic office chair with adjustable height.",
+                "Category": "Furniture",
+                "Image": "https://example.com/images/office-chair.jpg",
+                "Sold": false,
+                "IsSale": false,
+                "DateOfSale": null
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+               "Title": "Standing Desk",
+                "Price": 300,
+                "Description": "Adjustable standing desk for a healthy workspace.",
+                "Category": "Furniture",
+                "Image": "https://example.com/images/standing-desk.jpg",
+                "Sold": true,
+                "IsSale": false,
+                "DateOfSale": "2024-11-22"
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Cookware Set",
+                "Price": 75,
+                "Description": "Non-stick cookware set for everyday cooking.",
+                "Category": "Kitchen",
+                "Image": "https://example.com/images/cookware-set.jpg",
+                "Sold": false,
+                "IsSale": true,
+                "DateOfSale": null
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Electric Kettle",
+                "Price": 40,
+                "Description": "Quick-boil electric kettle with auto shut-off.",
+                "Category": "Kitchen",
+                "Image": "https://example.com/images/electric-kettle.jpg",
+                "Sold": true,
+                "IsSale": true,
+                "DateOfSale": "2024-11-05"
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Mountain Bike",
+                "Price": 500,
+                "Description": "Durable mountain bike for off-road adventures.",
+                "Category": "Fitness",
+                "Image": "https://example.com/images/mountain-bike.jpg",
+                "Sold": false,
+                "IsSale": false,
+                "DateOfSale": null
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Winter Jacket",
+                "Price": 90,
+                "Description": "Waterproof winter jacket with hood.",
+                "Category": "Clothing",
+                "Image": "https://example.com/images/winter-jacket.jpg",
+                "Sold": true,
+                "IsSale": true,
+                "DateOfSale": "2024-11-15"
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Gaming Mouse",
+                "Price": 35,
+                "Description": "Ergonomic gaming mouse with RGB lighting.",
+                "Category": "Electronics",
+                "Image": "https://example.com/images/gaming-mouse.jpg",
+                "Sold": true,
+                "IsSale": true,
+                "DateOfSale": "2024-11-12"
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Leather Wallet",
+                "Price": 25,
+                "Description": "Premium leather wallet with RFID protection.",
+                "Category": "Accessories",
+
+                "Image": "https://example.com/images/leather-wallet.jpg",
+                "Sold": false,
+                "IsSale": false,
+                "DateOfSale": null
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Sunglasses",
+                "Price": 50,
+                "Description": "Stylish sunglasses with UV protection.",
+                "Category": "Accessories",
+                "Image": "https://example.com/images/sunglasses.jpg",
+                "Sold": true,
+                "IsSale": false,
+                "DateOfSale": "2024-11-20"
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Microwave Oven",
+                "Price": 250,
+                "Description": "High-power microwave oven with digital display.",
+                "Category": "Kitchen",
+                "Image": "https://example.com/images/microwave-oven.jpg",
+                "Sold": false,
+                "IsSale": true,
+                "DateOfSale": null
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+               "Title": "Travel Backpack",
+"Price": 60,
+"Description": "Lightweight travel backpack with multiple compartments.",
+"Category": "Accessories",
+"Image": "https://example.com/images/travel-backpack.jpg",
+"Sold": true,
+"IsSale": true,
+"DateOfSale": "2024-11-08"
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Desk Lamp",
+"Price": 30,
+"Description": "LED desk lamp with adjustable brightness.",
+"Category": "Furniture",
+"Image": "https://example.com/images/desk-lamp.jpg",
+"Sold": true,
+"IsSale": true,
+"DateOfSale": "2024-11-11"
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+                "Title": "Electric Scooter",
+"Price": 700,
+"Description": "Eco-friendly electric scooter with long battery life.",
+"Category": "Electronics",
+"Image": "https://example.com/images/electric-scooter.jpg",
+"Sold": false,
+"IsSale": false,
+"DateOfSale": null
+
+        }
+    },
+    {
+        "model":"productapp.products",
+        "fields":{
+               "Title": "Fitness Tracker",
+"Price": 60,
+"Description": "Wearable fitness tracker with sleep monitoring.",
+"Category": "Fitness",
+"Image": "https://example.com/images/fitness-tracker.jpg",
+"Sold": true,
+"IsSale": true,
+"DateOfSale": "2024-11-19"
+
+        }
+    }
+]
